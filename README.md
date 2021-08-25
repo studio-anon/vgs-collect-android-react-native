@@ -1,3 +1,5 @@
+> **_NOTE:_**  This is archived repository. All the future updates will be published at [vgs-samples](https://github.com/vgs-samples/vgs-collect-show-android-react-native-demo) repository.
+
 # VGS Collect/Show SDK. React Native Demo.
 
 <p align="center">
